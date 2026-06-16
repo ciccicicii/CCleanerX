@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T12:47:51+08:00",
-  "scan_seconds": 109.99,
+  "generated_at": "2026-06-16T13:02:08+08:00",
+  "scan_seconds": 49.54,
   "system": {
     "os": "Windows 11",
     "build": "10.0.22631",
@@ -11,14 +11,14 @@
       {
         "name": "C:\\",
         "total_bytes": 214748360704,
-        "used_bytes": 197685841920,
-        "free_bytes": 17062518784
+        "used_bytes": 198209118208,
+        "free_bytes": 16539242496
       },
       {
         "name": "D:\\",
         "total_bytes": 296295067648,
-        "used_bytes": 254199091200,
-        "free_bytes": 42095976448
+        "used_bytes": 254353018880,
+        "free_bytes": 41942048768
       },
       {
         "name": "E:\\",
@@ -30,382 +30,592 @@
   },
   "groups": [
     {
-      "group": "drive_d",
-      "path": "D:\\",
+      "group": "drive_e",
+      "path": "E:\\",
       "exists": true,
       "children": [
         {
-          "name": "机器人",
-          "path": "D:\\机器人",
-          "size_bytes": 39597058954,
+          "name": "WeGameApps",
+          "path": "E:\\WeGameApps",
+          "size_bytes": 333689865639,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 24070,
-          "dir_count": 1874
+          "file_count": 6525,
+          "dir_count": 816
         },
         {
-          "name": "valorant1",
-          "path": "D:\\valorant1",
-          "size_bytes": 36878849802,
+          "name": "SteamLibrary",
+          "path": "E:\\SteamLibrary",
+          "size_bytes": 95972894801,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 8955,
-          "dir_count": 1342
+          "file_count": 5679,
+          "dir_count": 405
         },
         {
-          "name": "Ubuntu",
-          "path": "D:\\Ubuntu",
-          "size_bytes": 26867881443,
+          "name": "game",
+          "path": "E:\\game",
+          "size_bytes": 82646312140,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 25,
-          "dir_count": 1
+          "file_count": 101771,
+          "dir_count": 2343
         },
         {
-          "name": "Anaconda",
-          "path": "D:\\Anaconda",
-          "size_bytes": 25761951285,
+          "name": "墨问智能车",
+          "path": "E:\\墨问智能车",
+          "size_bytes": 30734844359,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 413299,
-          "dir_count": 48183
+          "file_count": 930,
+          "dir_count": 510
         },
         {
-          "name": "steamapp",
-          "path": "D:\\steamapp",
-          "size_bytes": 22598377789,
+          "name": "wangluo",
+          "path": "E:\\wangluo",
+          "size_bytes": 22885834552,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 66042,
-          "dir_count": 15477
+          "file_count": 2854,
+          "dir_count": 224
         },
         {
-          "name": "迅雷下载",
-          "path": "D:\\迅雷下载",
-          "size_bytes": 14196253713,
+          "name": "cyberdog_raceV2.tar",
+          "path": "E:\\cyberdog_raceV2.tar",
+          "size_bytes": 11845947904,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
           "file_count": 1,
-          "dir_count": 2
+          "dir_count": 0
         },
         {
-          "name": "qqdownloads",
-          "path": "D:\\qqdownloads",
-          "size_bytes": 12509704812,
+          "name": "iso",
+          "path": "E:\\iso",
+          "size_bytes": 10714656768,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 11165,
-          "dir_count": 2347
+          "file_count": 2,
+          "dir_count": 1
         },
         {
-          "name": "仿真平台",
-          "path": "D:\\仿真平台",
-          "size_bytes": 11722796526,
+          "name": "win10",
+          "path": "E:\\win10",
+          "size_bytes": 10468775169,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 66,
-          "dir_count": 22
+          "file_count": 24,
+          "dir_count": 3
         },
         {
-          "name": "mc",
-          "path": "D:\\mc",
-          "size_bytes": 11338237721,
+          "name": "GNS",
+          "path": "E:\\GNS",
+          "size_bytes": 8193466082,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 45175,
-          "dir_count": 4205
+          "file_count": 72,
+          "dir_count": 21
         },
         {
-          "name": "fps",
-          "path": "D:\\fps",
-          "size_bytes": 10548300562,
+          "name": "挑战杯",
+          "path": "E:\\挑战杯",
+          "size_bytes": 6923263374,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 1066,
-          "dir_count": 90
+          "file_count": 1355,
+          "dir_count": 83
         },
         {
-          "name": "Downloads",
-          "path": "D:\\Downloads",
-          "size_bytes": 6828209912,
+          "name": "code",
+          "path": "E:\\code",
+          "size_bytes": 6459071233,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 1553,
-          "dir_count": 24
+          "file_count": 25952,
+          "dir_count": 2696
         },
         {
-          "name": "CLion 2024.3.3",
-          "path": "D:\\CLion 2024.3.3",
-          "size_bytes": 5339561449,
+          "name": "EdgeDownloadd",
+          "path": "E:\\EdgeDownloadd",
+          "size_bytes": 4820672836,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 30346,
-          "dir_count": 2830
-        },
-        {
-          "name": "IntelliJ IDEA 2024.1.7",
-          "path": "D:\\IntelliJ IDEA 2024.1.7",
-          "size_bytes": 3738259449,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 1929,
-          "dir_count": 696
-        },
-        {
-          "name": "Edgedownloads",
-          "path": "D:\\Edgedownloads",
-          "size_bytes": 3545700846,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 2556,
-          "dir_count": 496
-        },
-        {
-          "name": "BaiduNetdiskDownload",
-          "path": "D:\\BaiduNetdiskDownload",
-          "size_bytes": 3344972455,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 232,
-          "dir_count": 34
-        },
-        {
-          "name": "BaiduNetdisk",
-          "path": "D:\\BaiduNetdisk",
-          "size_bytes": 3306910985,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 1181,
-          "dir_count": 173
-        },
-        {
-          "name": "copy",
-          "path": "D:\\copy",
-          "size_bytes": 2723430680,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 34422,
-          "dir_count": 4580
-        },
-        {
-          "name": "deepseek",
-          "path": "D:\\deepseek",
-          "size_bytes": 2602901907,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 4496,
-          "dir_count": 765
-        },
-        {
-          "name": "Driver",
-          "path": "D:\\Driver",
-          "size_bytes": 2508008922,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 14,
-          "dir_count": 13
-        },
-        {
-          "name": "Thunder",
-          "path": "D:\\Thunder",
-          "size_bytes": 1870464183,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 6297,
-          "dir_count": 224
-        },
-        {
-          "name": "DeliveryOptimization",
-          "path": "D:\\DeliveryOptimization",
-          "size_bytes": 1742302272,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 8,
-          "dir_count": 6
-        },
-        {
-          "name": "tencentmeeting",
-          "path": "D:\\tencentmeeting",
-          "size_bytes": 1394768272,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 10395,
-          "dir_count": 995
-        },
-        {
-          "name": "vmware",
-          "path": "D:\\vmware",
-          "size_bytes": 948696129,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 239,
-          "dir_count": 16
-        },
-        {
-          "name": "HCIA",
-          "path": "D:\\HCIA",
-          "size_bytes": 939794633,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 867,
-          "dir_count": 122
-        },
-        {
-          "name": "mCloud",
-          "path": "D:\\mCloud",
-          "size_bytes": 928216826,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 2895,
-          "dir_count": 72
-        },
-        {
-          "name": "phpstudy_pro",
-          "path": "D:\\phpstudy_pro",
-          "size_bytes": 923830079,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 1126,
-          "dir_count": 96
-        },
-        {
-          "name": "visual stdio",
-          "path": "D:\\visual stdio",
-          "size_bytes": 772946341,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 174,
-          "dir_count": 60
-        },
-        {
-          "name": "uu远程",
-          "path": "D:\\uu远程",
-          "size_bytes": 397232213,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 351,
-          "dir_count": 77
-        },
-        {
-          "name": "WeGameApps",
-          "path": "D:\\WeGameApps",
-          "size_bytes": 387683569,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 191,
-          "dir_count": 98
-        },
-        {
-          "name": "幕布",
-          "path": "D:\\幕布",
-          "size_bytes": 357359686,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 409,
-          "dir_count": 108
-        },
-        {
-          "name": "ATK",
-          "path": "D:\\ATK",
-          "size_bytes": 356434859,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 76,
+          "file_count": 61,
           "dir_count": 4
         },
         {
-          "name": "Chrome",
-          "path": "D:\\Chrome",
-          "size_bytes": 269041182,
+          "name": "Redhat",
+          "path": "E:\\Redhat",
+          "size_bytes": 3811521738,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 27,
+          "dir_count": 1
+        },
+        {
+          "name": "Chat",
+          "path": "E:\\Chat",
+          "size_bytes": 3536020650,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 32,
+          "dir_count": 12
+        },
+        {
+          "name": "pubg",
+          "path": "E:\\pubg",
+          "size_bytes": 3000898109,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 1204,
+          "dir_count": 66
+        },
+        {
+          "name": "PyCharm 2024.2.1",
+          "path": "E:\\PyCharm 2024.2.1",
+          "size_bytes": 2889046628,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 8004,
+          "dir_count": 1550
+        },
+        {
+          "name": "网挑",
+          "path": "E:\\网挑",
+          "size_bytes": 2849607488,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 41250,
+          "dir_count": 8926
+        },
+        {
+          "name": "U盘备份",
+          "path": "E:\\U盘备份",
+          "size_bytes": 2610055154,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 2215,
+          "dir_count": 140
+        },
+        {
+          "name": "eNSP",
+          "path": "E:\\eNSP",
+          "size_bytes": 2333583164,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 968,
+          "dir_count": 255
+        },
+        {
+          "name": "fps",
+          "path": "E:\\fps",
+          "size_bytes": 2092525816,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
           "file_count": 88,
+          "dir_count": 18
+        },
+        {
+          "name": "GNS3",
+          "path": "E:\\GNS3",
+          "size_bytes": 1729042990,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 623,
+          "dir_count": 60
+        },
+        {
+          "name": "zabbix",
+          "path": "E:\\zabbix",
+          "size_bytes": 1669360308,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 5,
           "dir_count": 4
         },
         {
-          "name": "mindnote",
-          "path": "D:\\mindnote",
-          "size_bytes": 250111094,
+          "name": "WPS魔改特别版 2024",
+          "path": "E:\\WPS魔改特别版 2024",
+          "size_bytes": 1641274770,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 78,
+          "file_count": 3627,
+          "dir_count": 942
+        },
+        {
+          "name": "codex",
+          "path": "E:\\codex",
+          "size_bytes": 1551681393,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 529,
+          "dir_count": 161
+        },
+        {
+          "name": "HBuilderX",
+          "path": "E:\\HBuilderX",
+          "size_bytes": 1095563190,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 99460,
+          "dir_count": 13898
+        },
+        {
+          "name": "贪吃蛇游戏",
+          "path": "E:\\贪吃蛇游戏",
+          "size_bytes": 1031623820,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 36,
+          "dir_count": 7
+        },
+        {
+          "name": "postman",
+          "path": "E:\\postman",
+          "size_bytes": 1004273719,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 166,
+          "dir_count": 14
+        },
+        {
+          "name": "huya",
+          "path": "E:\\huya",
+          "size_bytes": 893233796,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 964,
+          "dir_count": 49
+        },
+        {
+          "name": "leishen",
+          "path": "E:\\leishen",
+          "size_bytes": 805833421,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 421,
+          "dir_count": 75
+        },
+        {
+          "name": "Pycharm",
+          "path": "E:\\Pycharm",
+          "size_bytes": 795407433,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 4,
+          "dir_count": 2
+        },
+        {
+          "name": "思维导图",
+          "path": "E:\\思维导图",
+          "size_bytes": 681873070,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 1072,
+          "dir_count": 177
+        },
+        {
+          "name": "MTool_3E1EEFE2",
+          "path": "E:\\MTool_3E1EEFE2",
+          "size_bytes": 626182229,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 1183,
+          "dir_count": 120
+        },
+        {
+          "name": "WorkBuddy",
+          "path": "E:\\WorkBuddy",
+          "size_bytes": 586938617,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 4224,
+          "dir_count": 997
+        },
+        {
+          "name": "vetech_project",
+          "path": "E:\\vetech_project",
+          "size_bytes": 570728522,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 54724,
+          "dir_count": 5864
+        },
+        {
+          "name": "视频转码工具",
+          "path": "E:\\视频转码工具",
+          "size_bytes": 538327080,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 10795,
+          "dir_count": 840
+        },
+        {
+          "name": "mods",
+          "path": "E:\\mods",
+          "size_bytes": 508779978,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 519,
+          "dir_count": 406
+        },
+        {
+          "name": "Git",
+          "path": "E:\\Git",
+          "size_bytes": 482218094,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 9303,
+          "dir_count": 831
+        },
+        {
+          "name": "Tabbit",
+          "path": "E:\\Tabbit",
+          "size_bytes": 441051705,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 274,
+          "dir_count": 12
+        },
+        {
+          "name": "QiYou",
+          "path": "E:\\QiYou",
+          "size_bytes": 409656919,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 427,
+          "dir_count": 51
+        },
+        {
+          "name": "WPS魔改特别版 2024.rar",
+          "path": "E:\\WPS魔改特别版 2024.rar",
+          "size_bytes": 401168177,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 1,
+          "dir_count": 0
+        },
+        {
+          "name": "V2",
+          "path": "E:\\V2",
+          "size_bytes": 381386083,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 40,
+          "dir_count": 11
+        },
+        {
+          "name": "DBeaver",
+          "path": "E:\\DBeaver",
+          "size_bytes": 333617683,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 1450,
+          "dir_count": 447
+        },
+        {
+          "name": "Typora",
+          "path": "E:\\Typora",
+          "size_bytes": 320377453,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 3348,
+          "dir_count": 329
+        },
+        {
+          "name": "Big-Dog",
+          "path": "E:\\Big-Dog",
+          "size_bytes": 314371172,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 2230,
+          "dir_count": 411
+        },
+        {
+          "name": "curseforge",
+          "path": "E:\\curseforge",
+          "size_bytes": 313757995,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 28,
+          "dir_count": 3
+        },
+        {
+          "name": "简历",
+          "path": "E:\\简历",
+          "size_bytes": 231196955,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 404,
+          "dir_count": 27
+        },
+        {
+          "name": "desktop",
+          "path": "E:\\desktop",
+          "size_bytes": 209706948,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 89,
+          "dir_count": 17
+        },
+        {
+          "name": "Virtualbox",
+          "path": "E:\\Virtualbox",
+          "size_bytes": 185961563,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 158,
+          "dir_count": 17
+        },
+        {
+          "name": "clash_verge",
+          "path": "E:\\clash_verge",
+          "size_bytes": 176476189,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 12,
+          "dir_count": 3
+        },
+        {
+          "name": "Godot",
+          "path": "E:\\Godot",
+          "size_bytes": 172586512,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 2,
+          "dir_count": 1
+        },
+        {
+          "name": "vpn",
+          "path": "E:\\vpn",
+          "size_bytes": 146501060,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 234,
+          "dir_count": 88
+        },
+        {
+          "name": "菜玩steam神器(尽量使用新版)",
+          "path": "E:\\菜玩steam神器(尽量使用新版)",
+          "size_bytes": 126854144,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 3,
+          "dir_count": 2
+        },
+        {
+          "name": "hydfmaptools",
+          "path": "E:\\hydfmaptools",
+          "size_bytes": 118715525,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 11,
           "dir_count": 6
         },
         {
-          "name": "Rockstar_Launcher",
-          "path": "D:\\Rockstar_Launcher",
-          "size_bytes": 243697560,
-          "denied_count": 0,
-          "locked_count": 0,
-          "skipped_reparse_count": 0,
-          "file_count": 62,
-          "dir_count": 9
-        },
-        {
-          "name": "zhousi",
-          "path": "D:\\zhousi",
-          "size_bytes": 237895286,
+          "name": "Netease",
+          "path": "E:\\Netease",
+          "size_bytes": 87349509,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
           "file_count": 110,
-          "dir_count": 9
+          "dir_count": 18
         },
         {
-          "name": "AKPlatform",
-          "path": "D:\\AKPlatform",
-          "size_bytes": 212432796,
+          "name": "codex-briage",
+          "path": "E:\\codex-briage",
+          "size_bytes": 77915467,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 320,
-          "dir_count": 38
+          "file_count": 9343,
+          "dir_count": 1511
         },
         {
-          "name": "GameAssist",
-          "path": "D:\\GameAssist",
-          "size_bytes": 55707378,
+          "name": "DiskGenus",
+          "path": "E:\\DiskGenus",
+          "size_bytes": 64885946,
           "denied_count": 0,
           "locked_count": 0,
           "skipped_reparse_count": 0,
-          "file_count": 26,
-          "dir_count": 7
+          "file_count": 31,
+          "dir_count": 4
+        },
+        {
+          "name": "ikf",
+          "path": "E:\\ikf",
+          "size_bytes": 61854343,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 3997,
+          "dir_count": 141
+        },
+        {
+          "name": "deb_clash",
+          "path": "E:\\deb_clash",
+          "size_bytes": 56930590,
+          "denied_count": 0,
+          "locked_count": 0,
+          "skipped_reparse_count": 0,
+          "file_count": 1,
+          "dir_count": 1
         }
       ]
     }
   ],
-  "selected_drive": "D:\\"
+  "selected_drive": "E:\\"
 }
